@@ -1,0 +1,36 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[msn.com](https://www.msn.com)",
+    "[bgr.com](https://www.bgr.com)",
+    "[macworld.com](https://www.macworld.com)",
+    "[tradingview.com](https://www.tradingview.com)",
+    "[36kr.com](https://36kr.com)",
+    "[trendhunter.com](https://www.trendhunter.com)",
+    "[cio.com](https://www.cio.com)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px 2-3 lines; AIDA=pass; bento_density=grid-auto-flow:dense verified; labels_checked=yes; button_contrast=black/white pass",
+  "generated_at": "2026-07-04T01:28:02.979127+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A July 2026 editorial brief for buyers and builders tracking personal AI agents \u2014 with evidence-backed updates across ChatGPT, Gemini, Siri, Grok, Folk, Orchids, and a clear Super perspective on why reusable computer-use workflows matter."
+}
